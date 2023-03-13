@@ -1,0 +1,30 @@
+{
+    "1678727256335523:266904": {
+        "IResourceController": {
+            "name": "Eraser__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1678727256335502:266901",
+            "fileId": "1678727256363061:266908",
+            "originalId": "1678727257739620:267465",
+            "expected_hash": "950e2c47edf4368e53d47fc0e90ab65f"
+        },
+        "IResourceManager": {
+            "uid": "1678727256335502:266901",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1678727256363061:266908": {
+        "IFileManager": {
+            "path": "Files/File_1678727256363061_266908.oprfb"
+        }
+    },
+    "1678727257739620:267465": {
+        "IFileManager": {
+            "path": "Files/File_1678727257739620_267465.oprfb"
+        }
+    }
+}

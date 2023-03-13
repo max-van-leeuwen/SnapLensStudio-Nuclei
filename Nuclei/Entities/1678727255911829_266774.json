@@ -1,0 +1,30 @@
+{
+    "1678727255911250:266773": {
+        "IFileManager": {
+            "path": "Files/File_1678727255911250_266773"
+        }
+    },
+    "1678727255911829:266774": {
+        "IResourceController": {
+            "name": "GaussBlurAndOutline",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1678727255911831:266775",
+            "fileId": "1678727255911250:266773",
+            "originalId": "1678727255939631:266779",
+            "expected_hash": "34277323035fbcf46bf57fca63cd92f0"
+        },
+        "IResourceManager": {
+            "uid": "1678727255911831:266775",
+            "name": "Files/File_1678727255911250_266773",
+            "flags": 1
+        }
+    },
+    "1678727255939631:266779": {
+        "IFileManager": {
+            "path": "Files/File_1678727255939631_266779.lsmat"
+        }
+    }
+}

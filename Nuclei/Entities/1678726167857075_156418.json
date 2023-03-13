@@ -1,0 +1,25 @@
+{
+    "1678726167857075:156418": {
+        "IResourceController": {
+            "name": "Segmentation",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1678726167857268:156419",
+            "resources": [
+                "1677582890059163:241998",
+                "1677583512718279:292498",
+                "1677583526833266:295541",
+                "1678727255909205:266755"
+            ]
+        }
+    },
+    "1678726167857268:156419": {
+        "IResourceController": {
+            "public": {
+                "path": "Segmentation"
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "1677579060975617:12043": {
+        "IFileManager": {
+            "path": "Files/File_1677579060975617_12043"
+        }
+    },
+    "1677579060976326:12044": {
+        "IResourceController": {
+            "name": "Particles on mesh",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1677579060976329:12045",
+            "fileId": "1677579060975617:12043",
+            "originalId": "1677579061007345:12052",
+            "publicId": "1677579061008904:12055",
+            "expected_hash": "0e15b43813a45dd961b4b9e848b5563c",
+            "resources": [
+                "1678727257111537:267224"
+            ],
+            "additional": {
+                "GraphFilepathKey": "Files/File_1677579060975617_12043/",
+                "_exteraFile_": [
+                    "Files/File_1677579060975617_12043/vfx.vfxgraph"
+                ]
+            }
+        },
+        "IResourceManager": {
+            "uid": "1677579060976329:12045",
+            "name": "Files/File_1677579060975617_12043",
+            "flags": 1
+        }
+    },
+    "1677579061007345:12052": {
+        "IFileManager": {
+            "path": "Files/File_1677579061007345_12052.lsvfx"
+        }
+    },
+    "1677579061008904:12055": {
+        "IResourceController": {
+            "public": {
+                "path": "Track/Particles on mesh.lsvfx",
+                "hash": "da9aa08806bb2c117e84b0379cef28b4"
+            }
+        }
+    }
+}

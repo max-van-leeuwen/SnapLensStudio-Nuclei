@@ -1,0 +1,30 @@
+{
+    "1678727256073797:266839": {
+        "IFileManager": {
+            "path": "Files/File_1678727256073797_266839"
+        }
+    },
+    "1678727256074377:266840": {
+        "IResourceController": {
+            "name": "Contraction",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1678727256074379:266841",
+            "fileId": "1678727256073797:266839",
+            "originalId": "1678727256100541:266845",
+            "expected_hash": "2aa08feccb3f03c8fe81d2fd0114c280"
+        },
+        "IResourceManager": {
+            "uid": "1678727256074379:266841",
+            "name": "Files/File_1678727256073797_266839",
+            "flags": 1
+        }
+    },
+    "1678727256100541:266845": {
+        "IFileManager": {
+            "path": "Files/File_1678727256100541_266845.lsmat"
+        }
+    }
+}

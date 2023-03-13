@@ -1,0 +1,30 @@
+{
+    "1678727255998305:266796": {
+        "IFileManager": {
+            "path": "Files/File_1678727255998305_266796"
+        }
+    },
+    "1678727255998910:266797": {
+        "IResourceController": {
+            "name": "GetTexture",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1678727255998911:266798",
+            "fileId": "1678727255998305:266796",
+            "originalId": "1678727256026152:266802",
+            "expected_hash": "e36693cd539ff65e384b9cd39a2e4520"
+        },
+        "IResourceManager": {
+            "uid": "1678727255998911:266798",
+            "name": "Files/File_1678727255998305_266796",
+            "flags": 1
+        }
+    },
+    "1678727256026152:266802": {
+        "IFileManager": {
+            "path": "Files/File_1678727256026152_266802.lsmat"
+        }
+    }
+}

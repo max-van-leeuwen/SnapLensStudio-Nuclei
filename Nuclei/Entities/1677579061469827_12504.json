@@ -1,0 +1,20 @@
+{
+    "1677579061469827:12504": {
+        "IResourceController": {
+            "name": "Pos Z",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677579061469827:12503",
+            "additional": {
+                "RenderTargetRole": "2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1677579061469827:12503",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

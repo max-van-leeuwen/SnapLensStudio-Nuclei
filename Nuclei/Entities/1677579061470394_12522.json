@@ -1,0 +1,20 @@
+{
+    "1677579061470394:12522": {
+        "IResourceController": {
+            "name": "Pos X",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677579061470393:12521",
+            "additional": {
+                "RenderTargetRole": "2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1677579061470393:12521",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

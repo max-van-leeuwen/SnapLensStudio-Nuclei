@@ -1,0 +1,24 @@
+{
+    "1678727255909283:266756": {
+        "IFileManager": {
+            "path": "Files/File_1678727255909283_266756.js"
+        }
+    },
+    "1678727255909825:266757": {
+        "IResourceController": {
+            "name": "ML Eraser",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1678727255909830:266758",
+            "fileId": "1678727255909283:266756",
+            "expected_hash": "4aeb5af8d910e700707a01871f4b17d8"
+        },
+        "IResourceManager": {
+            "uid": "1678727255909830:266758",
+            "name": "Files/File_1678727255909283_266756.js",
+            "flags": 1
+        }
+    }
+}

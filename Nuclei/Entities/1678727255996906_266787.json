@@ -1,0 +1,24 @@
+{
+    "1678727255995697:266786": {
+        "IFileManager": {
+            "path": "Files/File_1678727255995697_266786.js"
+        }
+    },
+    "1678727255996906:266787": {
+        "IResourceController": {
+            "name": "Eraser0",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1678727255996914:266788",
+            "fileId": "1678727255995697:266786",
+            "expected_hash": "04aa4dce4003260dab3208cea81fc39b"
+        },
+        "IResourceManager": {
+            "uid": "1678727255996914:266788",
+            "name": "Files/File_1678727255995697_266786.js",
+            "flags": 1
+        }
+    }
+}

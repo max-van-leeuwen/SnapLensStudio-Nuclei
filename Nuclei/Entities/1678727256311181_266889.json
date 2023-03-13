@@ -1,0 +1,17 @@
+{
+    "1678727256311181:266889": {
+        "IResourceController": {
+            "name": "Remote ML Asset 7",
+            "type": 22,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1678727256311179:266888"
+        },
+        "IResourceManager": {
+            "uid": "1678727256311179:266888",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

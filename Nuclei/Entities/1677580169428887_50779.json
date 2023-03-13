@@ -1,0 +1,35 @@
+{
+    "1677580169428887:50779": {
+        "IResourceController": {
+            "name": "body - more equally projected UVs",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1677580169553257:50844",
+            "publicId": "1677580169563217:50847",
+            "expected_hash": "1eb2a92f5ec8c3a891211f4d6182aad3",
+            "resources": [
+                "1677580169463699:50788",
+                "1677580169517147:50830"
+            ],
+            "additional": {
+                "ImportParams": "",
+                "materialMapping": ""
+            }
+        }
+    },
+    "1677580169553257:50844": {
+        "IFileManager": {
+            "path": "Files/File_1677580169553257_50844.obj"
+        }
+    },
+    "1677580169563217:50847": {
+        "IResourceController": {
+            "public": {
+                "path": "Track/body - more equally projected UVs.obj",
+                "hash": "1eb2a92f5ec8c3a891211f4d6182aad3"
+            }
+        }
+    }
+}

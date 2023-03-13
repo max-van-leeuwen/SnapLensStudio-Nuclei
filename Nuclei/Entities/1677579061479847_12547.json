@@ -1,0 +1,33 @@
+{
+    "1677579061479193:12546": {
+        "IFileManager": {
+            "path": "Files/File_1677579061479193_12546.js"
+        }
+    },
+    "1677579061479847:12547": {
+        "IResourceController": {
+            "name": "Interaction",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677579061479851:12548",
+            "fileId": "1677579061479193:12546",
+            "publicId": "1677579061481552:12558",
+            "expected_hash": "440545889198f33b585209d477dc709d"
+        },
+        "IResourceManager": {
+            "uid": "1677579061479851:12548",
+            "name": "Files/File_1677579061479193_12546.js",
+            "flags": 1
+        }
+    },
+    "1677579061481552:12558": {
+        "IResourceController": {
+            "public": {
+                "path": "Script/Interaction.js",
+                "hash": "440545889198f33b585209d477dc709d"
+            }
+        }
+    }
+}
